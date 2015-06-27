@@ -1,2 +1,1 @@
-hello
-world
+Readme for hello world project
