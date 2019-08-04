@@ -1,2 +1,3 @@
-1. First Item
-1. Second Item
+1. First item
+1. Second item
+1. Third item
